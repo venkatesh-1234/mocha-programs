@@ -11,4 +11,4 @@ if (err) throw err;
  con.query("SELECT*from chat",function(result){
       console.log("first");
   })
-  console.log("second");
+  console.log("second")
